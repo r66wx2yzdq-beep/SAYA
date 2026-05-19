@@ -1,7 +1,6 @@
 import os
 from googletrans import Translator
 import pyaudio
-import speech_recognition as sr
 import serial
 import time
 import wolframalpha
